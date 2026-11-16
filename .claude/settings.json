@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Edit",
+      "Write",
+      "WebFetch",
+      "WebSearch",
+      "mcp__Supabase",
+      "mcp__Vercel",
+      "mcp__github",
+      "mcp__claude-artifacts",
+      "mcp__Claude_Docs"
+    ]
+  }
+}
